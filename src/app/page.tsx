@@ -69,8 +69,7 @@ export default function Page() {
                 period={`${work.start} - ${work.end ?? "Present"}`}
                 description={work.description}
               />
-             <p className="my-10">✔️ I&apos;m eager to take on an exciting opportunity where I can showcase my skills, contribute to meaningful projects, and continue growing as a developer. My goal is to leverage my experience and creativity to make a significant impact in the tech industry.</p>
-
+              <p className="my-10">✔️ I'm eager to take on an exciting opportunity where I can showcase my skills, contribute to meaningful projects, and continue growing as a developer. My goal is to leverage my experience and creativity to make a significant impact in the tech industry.</p>
             </BlurFade>
           ))}
         </div>
@@ -130,17 +129,7 @@ export default function Page() {
   favorites.
 </p>
 
-<p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-  Want to chat? Just shoot me a dm
-  <Link
-    href={DATA.contact.social.X.url}
-    className="text-blue-500 hover:underline"
-  >
-    with a direct question on twitter
-  </Link>
-  and I&apos;ll respond whenever I can. I&apos;ll ignore all
-  soliciting.
-</p>
+
                 </p>
               </div>
             </div>
