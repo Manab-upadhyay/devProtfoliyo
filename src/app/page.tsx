@@ -69,7 +69,8 @@ export default function Page() {
                 period={`${work.start} - ${work.end ?? "Present"}`}
                 description={work.description}
               />
-              <p className="my-10">✔️ I'm eager to take on an exciting opportunity where I can showcase my skills, contribute to meaningful projects, and continue growing as a developer. My goal is to leverage my experience and creativity to make a significant impact in the tech industry.</p>
+             <p className="my-10">✔️ I&apos;m eager to take on an exciting opportunity where I can showcase my skills, contribute to meaningful projects, and continue growing as a developer. My goal is to leverage my experience and creativity to make a significant impact in the tech industry.</p>
+
             </BlurFade>
           ))}
         </div>
