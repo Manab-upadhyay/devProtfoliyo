@@ -111,7 +111,7 @@ end: "July-2026"
   ],
   projects: [
     {
-      title: "Bus-tarcking-System",
+      title: "Bus-tracking-System",
       href: "",
       dates: "May 2024 - Aug 2024",
       active: true,
