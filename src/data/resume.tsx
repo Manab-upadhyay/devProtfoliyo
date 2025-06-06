@@ -25,6 +25,8 @@ export const DATA = {
     "MongoDb",
     "Docker",
     "C++",
+    "React Native",
+
   ],
   education:[
     {
@@ -96,16 +98,28 @@ end: "July-2026"
 
   work: [
     {
-      company: "Freelancer",
-      logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freelancer.com_Logo.png/1200px-Freelancer.com_Logo.png",
+      company: "Yardstick",
+      // logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freelancer.com_Logo.png/1200px-Freelancer.com_Logo.png",
       location: "Remote",
-      title: "Freelance Solfware Devloper",
+      title: "Full Stack Solfware Devloper",
      
-      start: "October 2023",
-      end: "January 2024",
+      start: "Feb 2025",
+      end: "March 2025",
     
       description:
-        "Implemented a robust e-commerce website offering a wide range of unique GIFs and other digital materials, providing users with easy access to a diverse collection available in the market.",
+        "Worked on the UI revamp of an AI agent SaaS platform, enhancing visual consistency and user experience usingmodern frontend technologies.Worked on frontend and backend integration , also integrated Stripe payment flow on the client side, ensuringsmooth and responsive user interactions during the checkout process.Collaborated with the design team to implement responsive layouts and component-based architecture for scalableUI developmen",
+    },
+    {
+      company: "Sudama Solution Technology",
+      // logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freelancer.com_Logo.png/1200px-Freelancer.com_Logo.png",
+      location: "Remote",
+      title: "Full Stack Solfware Devloper",
+     
+      start: "March 2025",
+      end: "May 2025",
+    
+      description:
+        "Developed and maintained a full-stack dating application using Firebase for real-time data handling authentication, and scalable backend services. Contributed to a multi-tenant school management system, implementing dynamic routing, user-role-based access control, and modular architecture.Optimized the performance and UI of the company’s brand website (BookMyDoct), improving load speed and user engagement through frontend enhancements and SEO improvements.",
     },
    
   ],
@@ -138,12 +152,12 @@ end: "July-2026"
         "/ourapp (online-video-cutter.com) (1).mp4",
     },
     {
-      title: "Admin-Portal",
+      title: "Task Management System",
       href: "",
       dates: "June 2024 - September-2024",
       active: true,
       description:
-        "Designed and devloped a Admin portal for the seamless management of our Bus_tracking-Application",
+        "Designed and devloped a Task Management System  for the seamless management of task and team colaboration",
       technologies: [
         "Next.js",
         "Typescript",
@@ -162,35 +176,35 @@ end: "July-2026"
         },
         {
           type: "Source",
-          href: "https://github.com/Manab-upadhyay/Admin-bus",
+          href: "https://task-management-sys-lime.vercel.app/",
           icon: <Icons.github className="size-3" />,
         },
       ],
       image: "",
-      video: "/Screen Recording 2024-09-01 194538.mp4",
+      video: "/Screen Recording 2025-06-06 214126.mp4",
     },
     {
-      title: "Chat-Application",
+      title: "Me Healthy",
       href: "",
       dates: "June 2024 - July 2024",
       active: true,
       description:
-        "Developed a dynamic real-time chat application using the MERN stack and Socket.io, allowing users to communicate seamlessly across various devices.",
+        "Built a bilingual (Hindi and English) disease information API using Node.js and Express, tailored for developers building health-related applications.",
       technologies: [
-        "React",
-        "Typescript",
-        "MongoDb",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-         "NodeJs",
+        "Node js",
+        "Express",
+        "Docker",
+        "AWS",
+        "Jest",
+        "Mocha",
+         "Authentication",
         
   
       ],
       links: [
         {
           type: "Website",
-          href: "",
+          href: "https://documenter.getpostman.com/view/29482154/2sAXxY4oXn",
           icon: <Icons.globe className="size-3" />,
         },
         {
@@ -199,8 +213,8 @@ end: "July-2026"
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Screenshot (556).png",
-      video: "",
+      image: "",
+      video: "/Screen Recording 2025-06-06 214240.mp4",
     },
     {
       title: "Blog-Website",
