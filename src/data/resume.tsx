@@ -10,7 +10,7 @@ export const DATA = {
   location: "Assam, india",
   locationLink: "https://www.google.com/maps/place/assam",
   description:
-    "An enthusiats Full stack Web Devloper and a Creative Web desiner ",
+    "An enthusiats Full stack Web Developer and a Creative Web designer ",
   summary:
    "At the end of 2022, I embarked on my [B.Tech journey](/#education) at [Assam University](/#) Silchar, as a Computer Science Engineering student. My interest in technology [skyrocketed](#), and I quickly gained a solid foundation in programming languages like C, C++, and Python. In 2023, I dove into the world of web development, which has been a roller coaster ride of learning and growth. During this time, I built [amazing projects](/#projects) and helped startups bring their visions to life. My hunger for growth in this field is unrelenting.",
   avatarUrl: "/mypic - Copy-removebg-preview (1).jpg",
