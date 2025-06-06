@@ -99,7 +99,7 @@ end: "July-2026"
   work: [
     {
       company: "Yardstick",
-      // logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freelancer.com_Logo.png/1200px-Freelancer.com_Logo.png",
+      logoUrl: "",
       location: "Remote",
       title: "Full Stack Solfware Devloper",
      
@@ -111,7 +111,7 @@ end: "July-2026"
     },
     {
       company: "Sudama Solution Technology",
-      // logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freelancer.com_Logo.png/1200px-Freelancer.com_Logo.png",
+      logoUrl: "",
       location: "Remote",
       title: "Full Stack Solfware Devloper",
      
